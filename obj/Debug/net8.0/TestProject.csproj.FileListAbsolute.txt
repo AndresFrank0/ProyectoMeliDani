@@ -1,0 +1,94 @@
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\appsettings.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets\msbuild.TestProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets\msbuild.build.TestProject.props
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestProject.props
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestProject.props
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\scopedcss\bundle\TestProject.styles.css
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProj.121896E9.Up2Date
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\usuarios.json
+C:\Users\danie\OneDrive\Documentos\pruebadelnet\TestProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.csproj.AssemblyReference.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\MtBackend.Tests\obj\MtBackend.Tests.csproj.nuget.dgspec.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\MtBackend.Tests\obj\project.assets.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\usuarios.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.staticwebassets.endpoints.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\scopedcss\bundle\TestProject.styles.css
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProj.121896E9.Up2Date
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Andrés Franquiz\Downloads\PIDS BACK 5 12\pruebadelnet\TestProject\obj\Debug\net8.0\ref\TestProject.dll
