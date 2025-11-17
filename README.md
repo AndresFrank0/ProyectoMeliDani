@@ -2,7 +2,7 @@
 
 [![Licencia](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Un proyecto de ingeniería de software para Meli y Dani. Esta es una API de backend construida con .NET que permite a los usuarios gestionar una lista de deseos de contenido (como películas o series).
+Un proyecto de ingeniería de software de Meli y Dani. Esta es una API de backend construida con .NET que permite a los usuarios gestionar una lista de deseos de contenido (como películas o series).
 
 ---
 
