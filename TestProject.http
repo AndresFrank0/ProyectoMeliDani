@@ -1,0 +1,36 @@
+@TestProject_HostAddress = http://localhost:5271
+
+# Rutas para Usuario
+GET {{TestProject_HostAddress}}/api/controlUsuario
+Accept: application/json
+
+POST {{TestProject_HostAddress}}/api/controlUsuario
+Content-Type: application/json
+
+POST {{TestProject_HostAddress}}/api/controlUsuario/login
+Content-Type: application/json
+
+GET {{TestProject_HostAddress}}/api/controlUsuario/obtenerContrasena/{usuario}
+Accept: application/json
+
+PUT {{TestProject_HostAddress}}/api/controlUsuario/modificarPerfil
+Content-Type: application/json
+
+DELETE {{TestProject_HostAddress}}/api/controlUsuario/eliminarCuenta/{usuario}
+Accept: application/json
+
+# Rutas para Contenido
+POST {{TestProject_HostAddress}}/api/contenido
+Content-Type: application/json
+
+POST {{TestProject_HostAddress}}/api/contenido/guardar
+Content-Type: application/json
+
+GET {{TestProject_HostAddress}}/api/contenido/{usuario}
+Accept: application/json
+
+DELETE {{TestProject_HostAddress}}/api/contenido/{usuario}/{titulo}
+Accept: application/json
+
+###
+
