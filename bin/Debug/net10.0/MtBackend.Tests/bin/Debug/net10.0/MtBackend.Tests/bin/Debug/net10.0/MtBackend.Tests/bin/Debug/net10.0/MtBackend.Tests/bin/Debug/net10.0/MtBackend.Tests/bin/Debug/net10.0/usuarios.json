@@ -1,0 +1,313 @@
+[
+  {
+    "Nombre": "Juan Pérez",
+    "Usuario": "juanperez",
+    "Contraseña": "contraseñaSegura123",
+    "Email": "juan.perez@example.com",
+    "Edad": 30,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "Maria Lopez",
+    "Usuario": "marialopez",
+    "Contraseña": "otraContraseñaSegura",
+    "Email": "maria.lopez@example.com",
+    "Edad": 25,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "dani",
+    "Usuario": "dani",
+    "Contraseña": "dani",
+    "Email": "danicastaldoo@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": [
+      {
+        "Titulo": "Outer Banks",
+        "Descripcion": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BY2FmYmJiYTQtYmJhZC00ZTIxLTk3OTAtNzc3NDk0NGMxYTdmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "The Office",
+        "Descripcion": "A mediocre paper company in the hands of Scranton, PA branch manager Michael Scott. This mockumentary follows the everyday lives of the manager and the employees he \"manages.\" The crew follows the employees around 24/7 and captures their quite humorous and bizarre encounters as they will do what it takes to keep the company thriving.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "The Maze Runner",
+        "Descripcion": "Awakening in an elevator, remembering nothing of his past, Thomas emerges into a world of about thirty teenage boys, all without past memories, who have learned to survive under their own set of rules in a completely enclosed environment, subsisting on their own agriculture and supplies. With a new boy arriving every thirty days, the group has been in \"The Glade\" for three years, trying to find a way to escape through the Maze that surrounds their living space (patrolled by cyborg monsters named 'Grievers'). They have begun to give up hope when a comatose girl arrives with a strange note, and their world begins to change with the boys dividing into two factions: those willing to risk their lives to escape and those wanting to hang onto what they've got and survive.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_SX300.jpg",
+        "Tipo": "movie",
+        "Estado": "viendo"
+      },
+      {
+        "Titulo": "It Ends With Us",
+        "Descripcion": "<b>**NOW A MAJOR MOTION PICTURE STARRING BLAKE LIVELY AND JUSTIN BALDONI**<br><br> THE RUNAWAY GLOBAL MULTI-MILLION COPY BESTSELLING NOVEL BY COLLEEN HOOVER. </b><br><br> ‘The reigning queen of BookTok’ <b><i>GUARDIAN </i></b><br> ‘One of the most influential voices of the last decade’ <b><i>ELLE</i></b><br> ‘One of the world's most successful writers’ <b><i>DAILY MAIL</i></b><br>  <br><b>‘In the future . . . if by some miracle you ever find yourself in the position to fall in love again . . . fall in love with me.’</b><br><br> Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true.<br><br> Ryle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place.<br><br> As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan—her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.<br><br><b>With this bold and deeply personal novel, <i>IT ENDS WITH US </i>is a heart-wrenching story and an unforgettable tale of love that comes at the ultimate price. </b><br>  <br><b>Don't miss <i>IT STARTS WITH US</i><i>,</i> the sequel to <i>IT ENDS WITH US</i>. Available now!</b><br><br> Colleen Hoover, <i>It Ends with Us</i> Number 1 <i>Sunday Times</i> bestseller January 2023 (UK)",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=KmbkCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE723tvyId-Ik-DGBzByiRlVwADgB1QrgwNhJStzMiouCAJoRw-cKiB17cnLTHqH5oh1tJ_LvpPcYcX-r2vzddJWrDeGvyhgbm6KDdFt49_J-dVeMuOg4uUx9elefE8pz4WfkU8Oz&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "porVer"
+      },
+      {
+        "Titulo": "string",
+        "Descripcion": "string",
+        "FotoPortada": "string",
+        "Tipo": "series",
+        "Estado": "viendo"
+      },
+      {
+        "Titulo": "Cross",
+        "Descripcion": "Series adaptation of James Patterson novels about the complicated and brilliant detective, Alex Cross.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMTE0ZGVjMjUtMDI1ZC00MTZiLWI1OWMtMTI3ZGI4ODU4OTU4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "The Last Thing He Told Me",
+        "Descripcion": "<b>A Goodreads Top 60 Book of the Last 5 Years</b><br> <b>Don’t miss the #1 <i>New York Times</i> bestselling blockbuster and Reese Witherspoon Book Club Pick that’s sold over 3 million copies—now streaming on Apple TV+ starring Jennifer Garner!</b><br> <br> <b>The “page-turning, exhilarating” (<i>PopSugar</i>) and “heartfelt thriller” (<i>Real Simple</i>) about a woman who thinks she’s found the love of her life—until he disappears.</b><br><br>Before Owen Michaels disappears, he smuggles a note to his beloved wife of one year: <i>Protect her</i>. Despite her confusion and fear, Hannah Hall knows exactly to whom the note refers—Owen’s sixteen-year-old daughter, Bailey. Bailey, who lost her mother tragically as a child. Bailey, who wants absolutely nothing to do with her new stepmother.<br> <br>As Hannah’s increasingly desperate calls to Owen go unanswered, as the FBI arrests Owen’s boss, as a US marshal and federal agents arrive at her Sausalito home unannounced, Hannah quickly realizes her husband isn’t who he said he was. And that Bailey just may hold the key to figuring out Owen’s true identity—and why he really disappeared.<br> <br>Hannah and Bailey set out to discover the truth. But as they start putting together the pieces of Owen’s past, they soon realize they’re also building a new future—one neither of them could have anticipated.<br> <br>With its breakneck pacing, dizzying plot twists, and evocative family drama, <i>The Last Thing He Told Me</i> is a “page-turning, exhilarating, and unforgettable” (<i>PopSugar</i>) suspense novel.",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=3s8DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE726JvYdkyth6MILxQJyVU4a1WcwMV3JefMspA19psBU56A-SMD932Fsgso-KjADCe1-DiX_peb2yDpJ2qncSdqF6GhoNJpl08wx28eYTBDJ7fDPGoIhURo3V3dE_kUBkFq7COj5&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "Black Mirror",
+        "Descripcion": "Set in a world only minutes from our own, \"Black Mirror\", a UK and USA non-hosted anthology series; unveils how modern technologies can backfire and be used against their makers, every episode set in a slightly different reality with different characters combating different types of technologies. The series ran from 2011 until 2019.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMWY3ZjgwMTctZTZmMS00ZTMwLTkwYWEtNTVkMDgwNjA5ODBiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "viendo"
+      },
+      {
+        "Titulo": "The Crown",
+        "Descripcion": "This show focuses on Queen Elizabeth II as a young newlywed faced with leading the world's most famous monarchy, while forging a relationship with legendary Prime Minister Sir Winston Churchill. The British Empire is in decline, the political world is in disarray, but a new era is dawning. Peter Morgan's masterfully researched scripts reveal the Queen's private journey behind the public façade with daring frankness. Prepare to see into the coveted world of power and privilege behind the locked doors of Westminster and Buckingham Palace.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "porver"
+      },
+      {
+        "Titulo": "It Ends with Us",
+        "Descripcion": "<b>In this “brave and heartbreaking novel that digs its claws into you and doesn’t let go, long after you’ve finished it” (Anna Todd, <i>New York Times</i> bestselling author) from the #1 <i>New York Times</i> bestselling author of <i>All Your Perfects</i>, a workaholic with a too-good-to-be-true romance can’t stop thinking about her first love. </b><br><br>Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town where she grew up—she graduated from college, moved to Boston, and started her own business. And when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life seems too good to be true.<br> <br>Ryle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place.<br> <br>As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan—her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.<br> <br>An honest, evocative, and tender novel, <i>It Ends with Us</i> is “a glorious and touching read, a forever keeper. The kind of book that gets handed down” (<i>USA TODAY</i>).",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=wmnuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE733cgrut0qvdu0vUiDrXIKaPUcy4bomY8FUNUhKN3Uq4PIf7eORHkNSvCEuuuSojZQ5HOMQarizOwMtHzew47VRs7tuunybDy6IDqAp1wz46sKt7WljOH9HAGalYWj5cwwYAbml&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "Sometimes I Lie",
+        "Descripcion": "<p> * SOON TO BE A MAJOR TV SERIES STARRING SARAH MICHELLE GELLAR AS AMBER REYNOLDS * </p> ‘Marvellous’ A. J. Finn ’A bold and original voice’ Clare Mackintosh ‘A brilliant thriller’ Ali Land <p>My name is Amber Reynolds. There are three things you should know about me.</p> <p> 1. I’m in a coma </p> <p> 2. My husband doesn’t love me any more </p> <p> 3. Sometimes I lie </p> <p>Unnerving, twisted and utterly compelling, you won’t be able to put this thriller down.</p>",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=LWUnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71lacNYrrfws5XV31wpsX_aby14-NAW6tlv15NYK1U8cCGcw6B_QbgmQs9zhUenjGhXjOxBSO9suT9xt3zvadvCs2-5jGIVHeIgB1JECqI58qZNAZt_Z7yN7KgTe_gozy2yhIEc&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "viendo"
+      },
+      {
+        "Titulo": "Normal People",
+        "Descripcion": "<b>NOW AN EMMY-NOMINATED HULU ORIGINAL SERIES • <i>NEW YORK TIMES</i> BESTSELLER • LONGLISTED FOR THE BOOKER PRIZE • “A stunning novel about the transformative power of relationships” (<i>People</i>) from the author of <i>Conversations with Friends,</i> “a master of the literary page-turner” (J. Courtney Sullivan).</b><br> <br><b>“[A] novel that demands to be read compulsively, in one sitting.”—<i>The Washington Post</i></b><br><br><b>ONE OF <i>ENTERTAINMENT WEEKLY</i>’S TEN BEST NOVELS OF THE DECADE</b><br><br><b>TEN BEST BOOKS OF THE YEAR: <i>People, Slate,</i> The New York Public Library, <i>Harvard Crimson</i></b><br><br>Connell and Marianne grew up in the same small town, but the similarities end there. At school, Connell is popular and well liked, while Marianne is a loner. But when the two strike up a conversation—awkward but electrifying—something life changing begins.<br><br>A year later, they’re both studying at Trinity College in Dublin. Marianne has found her feet in a new social world while Connell hangs at the sidelines, shy and uncertain. Throughout their years at university, Marianne and Connell circle one another, straying toward other people and possibilities but always magnetically, irresistibly drawn back together. And as she veers into self-destruction and he begins to search for meaning elsewhere, each must confront how far they are willing to go to save the other.<br><br><i>Normal People</i> is the story of mutual fascination, friendship, and love. It takes us from that first conversation to the years beyond, in the company of two people who try to stay apart but find that they can’t.<br> <br><b>WINNER: The British Book Award, The Costa Book Award, The An Post Irish Novel of the Year, <i>Sunday Times </i>Young Writer of the Year Award</b><br><br><b>BEST BOOKS OF THE YEAR: <i>The New York Times</i>, <i>The New York Times Book Review, Oprah Daily, Time,</i> NPR, <i>The Washington Post, Vogue, Esquire, Glamour, Elle, Marie Claire, Vox, The Paris Review, Good Housekeeping, Town & Country</i></b>",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=kwBlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73nHMgxt7yzhwG8d6DZYObFD5e4XF6b5wJrD1iPAG8J3O8s6ld_Z60z-WPTA9_7AH9eToMLQA1sZcTET2SOsTMDz75En28ILKIMhPEyockUd9dILqHmRPImRxXRBqsMOqhbPp4j&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "porver"
+      }
+    ]
+  },
+  {
+    "Nombre": "jimena",
+    "Usuario": "jijili",
+    "Contraseña": "aa",
+    "Email": "aaaaa@ss",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "luna",
+    "Usuario": "luna",
+    "Contraseña": "luna",
+    "Email": "luna",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "luna",
+    "Usuario": "juanlopez1",
+    "Contraseña": "luna",
+    "Email": "juan@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "hioj",
+    "Usuario": "hioj",
+    "Contraseña": "hoijnnkn",
+    "Email": "hioj@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "vv",
+    "Usuario": "v",
+    "Contraseña": "vvv",
+    "Email": "vv@gmail.com",
+    "Edad": 45,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "hioj",
+    "Usuario": "hioj0",
+    "Contraseña": "jioj",
+    "Email": "hio0j@gmail.com",
+    "Edad": 45,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "hola",
+    "Usuario": "hola",
+    "Contraseña": "hola",
+    "Email": "hola@hotmail.com",
+    "Edad": 15,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "holaa",
+    "Usuario": "holaaa",
+    "Contraseña": "hola",
+    "Email": "hola",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "lili",
+    "Usuario": "lililu",
+    "Contraseña": "jiojm",
+    "Email": "lili@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "lola",
+    "Usuario": "lola",
+    "Contraseña": "loli",
+    "Email": "lloli@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "carla",
+    "Usuario": "carla",
+    "Contraseña": "carla",
+    "Email": "carla@gmail.com",
+    "Edad": 19,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "abs",
+    "Usuario": "ab",
+    "Contraseña": "a",
+    "Email": "aba@gmail.com",
+    "Edad": 85,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "olaa",
+    "Usuario": "ola",
+    "Contraseña": "ola",
+    "Email": "ola@gmail.com",
+    "Edad": 85,
+    "ListaDeseo": []
+  },
+  {
+    "Nombre": "dolomita",
+    "Usuario": "Dolomita5",
+    "Contraseña": "dolomita",
+    "Email": "dolo@gmail.com",
+    "Edad": 15,
+    "ListaDeseo": [
+      {
+        "Titulo": "The Crown",
+        "Descripcion": "This show focuses on Queen Elizabeth II as a young newlywed faced with leading the world's most famous monarchy, while forging a relationship with legendary Prime Minister Sir Winston Churchill. The British Empire is in decline, the political world is in disarray, but a new era is dawning. Peter Morgan's masterfully researched scripts reveal the Queen's private journey behind the public façade with daring frankness. Prepare to see into the coveted world of power and privilege behind the locked doors of Westminster and Buckingham Palace.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BODcyODZlZDMtZGE0Ni00NjBhLWJlYTAtZDdlNWY3MzkwMGVhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "porVer"
+      },
+      {
+        "Titulo": "Titanic",
+        "Descripcion": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      }
+    ]
+  },
+  {
+    "Nombre": "maria",
+    "Usuario": "marii",
+    "Contraseña": "mari",
+    "Email": "mari@gmail.com",
+    "Edad": 18,
+    "ListaDeseo": [
+      {
+        "Titulo": "Principito",
+        "Descripcion": "Little Max lives in a small house where he adores playing and spending time with his teddy bunny called Pepito. But his friend is at risk when his mother starts throwing down a magic dark hole, all of his precious toys.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMjRkZDY5MzAtM2U4OC00ZWFkLWJjNDUtZTEyYjUxYTI5MzkxXkEyXkFqcGdeQXVyMTQwNzcwMzM4._V1_SX300.jpg",
+        "Tipo": "",
+        "Estado": "porVer"
+      }
+    ]
+  },
+  {
+    "Nombre": "mari",
+    "Usuario": "marid",
+    "Contraseña": "123",
+    "Email": "marid@gmail.com",
+    "Edad": 20,
+    "ListaDeseo": [
+      {
+        "Titulo": "Judy Moody es experta en libros",
+        "Descripcion": "<p> <b>Buen humor, mal humor y hasta el humor típico de</b> <b>un concurso de lectura...</b> </p> <p>¡El primerísimo <b>Gran Concurso</b> <b>de Lectura</b> está por comenzar! ¿Podrán Judy Moody y el resto de los Gusanos Comelibros de Virginia Dare derrotar a los Defensores Chupasangre del Bigote Falso? <b>¡Es un misterio</b> <b>que no puedes dejar de leer!</b> </p>",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=qtVKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE724EZ_u-7Le5xDv9tN8B-9gPMfm3dq5DkfymUognRYnEqgRmy-IX5Lt1TCdxpvg6VEvKAA1QnaZzIK82fB3BsuaI_4Xqu1gg0bSy6eYjmMOiwr1vxR5mpNBL4yGVuQevJ80Iel3&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "Monte Carlo",
+        "Descripcion": "A young woman, her uptight step sister and her best friend use their savings for a long anticipated dream trip to Paris, which turns out to be a big disappointment. When they decide to take a break from their lousy tour and duck into the lobby of a luxury hotel, one of them is mistaken for a spoiled British heiress. Before they get the chance to reveal their true identities they are wrapped up in misadventures during a vacation to Monte Carlo instead.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMjE4NjM3NjI1Nl5BMl5BanBnXkFtZTcwNjA5MzY1NQ@@._V1_SX300.jpg",
+        "Tipo": "movie",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "El Principito",
+        "Descripcion": "Desde un pequeño asteroide, muy lejos de este planeta que se debate por sobrevivir, destella la imagen de este dulce niño tratando de rescatar los mejores sentimientos humanos olvidados o relegados.<br> Saint-Exupéry escribe este canto de amor y ternura inigualable dirigido a los adultos, aunque quizá sean los nños los que puedan entender su hermosisimo mensaje.<br>",
+        "FotoPortada": "http://books.google.com/books/publisher/content?id=1N0KDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE708na5Mx1GFm_5PILyRkP5v0G0jktvbNSzrjAUdR31iTAv6eb1xq_E8vXshMbuItM6kNQk4HMgHBJn7qiQEqHDlFFoT0wCCouR48DArbAiS4NQd7_UicmI3cmL4I_Ra23hkl650&source=gbs_api",
+        "Tipo": "Libro",
+        "Estado": "porVer"
+      },
+      {
+        "Titulo": "Friends",
+        "Descripcion": "Ross Geller, Rachel Green, Monica Geller, Joey Tribbiani, Chandler Bing, and Phoebe Buffay are six twenty-somethings living in New York City. Over the course of 10 years and seasons, these friends go through life lessons, family, love, drama, friendship, and comedy.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "Tini: The New Life of Violetta",
+        "Descripcion": "In a story that reflects the teen star's own real life, Tini Stoessel (\"Tini\") will leave behind the world of Violetta. Striking out alone, she journeys to the Italian countryside where she embarks on a brand new adventure over one endless summer that will define her as a person and see her emerge as a new artist.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BZDZmMWI1YTItZTc0NS00ZWE1LTk4OTUtOWY4YzhjMWViNDE3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "movie",
+        "Estado": "visto"
+      },
+      {
+        "Titulo": "Violetta",
+        "Descripcion": "A young girl named Violetta returns to her hometown, Buenos Aires, after living in Europe for a while. She is living with her father because her mother died. She learns about music, friendship, and her father as well. She wants to find a music school for future stars like her. While she keeps this from her father, she finds love, friends, and clues about her past.",
+        "FotoPortada": "https://m.media-amazon.com/images/M/MV5BMzk4MTQzMTQtM2E3Yi00NjQ5LTliOGYtMTY2YTEyMTQ0NTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Tipo": "series",
+        "Estado": "visto"
+      }
+    ]
+  },
+  {
+    "Nombre": "juli",
+    "Usuario": "julia",
+    "Contraseña": "julia",
+    "Email": "ju@gmail.com",
+    "Edad": 18,
+    "ListaDeseo": []
+  }
+]
